@@ -17,16 +17,16 @@ npm test
 
 #### /
 
-Method: `GET`
+Method: `GET`  
 Home url that shows a greeting message
 
 #### /transactions
 
-Method: `GET`
+Method: `GET`  
 Returns a list of transactions
 
 #### /transactions
 
-Method: `POST`
-Add a new transaction (fake)
+Method: `POST`  
+Add a new transaction (fake)  
 Required fields: `currency`
